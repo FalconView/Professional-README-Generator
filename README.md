@@ -17,7 +17,7 @@ This is a command-line application for generating professional README file. You 
 
 1. Install Node.js (https://nodejs.org/en/download/)
 2. ```bash
-   git clone git@github.com:YuriI92/yurepo-readme-generator.git
+   git clone git@github.com:/FalconView/Professional-README-Generator/blob/main/assests/images/READMEgenerator_screen_recording.gif
    ```
 3. ```bash
    npm install inquirer
