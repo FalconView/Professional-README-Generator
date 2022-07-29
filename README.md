@@ -32,19 +32,16 @@ This is a command-line application for generating professional README file. You 
 2. Answer questions in the terminal.</br>
    [Demonstration Video](https://drive.google.com/file/d/1EPepTBmyK6YVwuhGv-R1sx1m1C7BZb-N/view?usp=sharing)
    - For "Required" questions, if no answer provided, it will give you error until you answer the question.
-<<<<<<< HEAD
      ![Alt Text](/assests/images/error_required-question.jpg)
      ![Alt Text](./assests/images/error_required-license.jpg)
    - Press "Enter" to skip questions that are not required.
    - If you enter "no" for contact information, you will not be asked any further questions.
      ![Alt Text](./assests/images/contact-info-no.jpg)
-=======
      ![](./assets/images/error_required-question.jpg)
      ![](./assets/images/error_required-license.jpg)
    - Press "Enter" to skip questions that are not required.
    - If you enter "no" for contact information, you will not be asked any further questions.
      ![](./assets/images/contact-info-no.jpg)
->>>>>>> 3fd91ecd7307548e9b411f876add67d561d0cbf9
 3. Copy the `README.md` created in `dist` folder into your project's folder and check the outcome!
 
 ## License
