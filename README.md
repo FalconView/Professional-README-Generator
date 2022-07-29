@@ -29,8 +29,8 @@ This is a command-line application for generating professional README file. You 
    ```bash
    npm start
    ```
-2. Answer questions in the terminal.</br>
-   [Demonstration Video](https://drive.google.com/file/d/1EPepTBmyK6YVwuhGv-R1sx1m1C7BZb-N/view?usp=sharing) </br>
+2. Answer questions in the terminal.</br> </br>
+   [Demonstration Video](https://drive.google.com/file/d/1EPepTBmyK6YVwuhGv-R1sx1m1C7BZb-N/view?usp=sharing)
    - For "Required" questions, if no answer provided, it will give you error until you answer the question.
      ![Alt Text](/assests/images/error_required-question.jpg)
      ![Alt Text](./assests/images/error_required-license.jpg)
